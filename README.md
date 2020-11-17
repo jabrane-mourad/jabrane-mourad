@@ -1,6 +1,6 @@
 ### Hey Github user :wave:
 
-I'm a Software Engineer student who is passionate about programming languages, Python is My first :heart: .
+I'm a Software Engineer Student who is passionate about programming languages, Python is My first :heart: .
 
 I'm always searching for ways to improve my skills and work methodologies.
 
